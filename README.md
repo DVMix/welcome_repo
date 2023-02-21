@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+# TODO
 - [ ] Be familiar with algorithm design and knowledge of applied mathematics
 - [ ] Experience with common image processing algorithms (filtering, deconvolution, classification/segmentation,
 transformation, resampling, tracking, face detection, etc.)
