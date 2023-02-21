@@ -21,3 +21,7 @@
 - [ ] Knowledge of basic mathematical theories (linear algebra, probability theory, information theory, adaptive filtering,
 regression, etc.).
 - [ ] Solid programming skills and enterprise-level experience with Python/C++
+
+
+# Data parsing
+ - https://github.com/pythontoday/scrap_tutorial
