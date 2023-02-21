@@ -8,8 +8,14 @@
 
 # TODO
 - [ ] Be familiar with algorithm design and knowledge of applied mathematics
-- [ ] Experience with common image processing algorithms (filtering, deconvolution, classification/segmentation,
-transformation, resampling, tracking, face detection, etc.)
+- [ ] Experience with common image processing algorithms: 
+  - [ ] filtering
+  - [ ] deconvolution
+  - [ ] classification/segmentation
+  - [ ] transformation
+  - [ ] resampling
+  - [ ] tracking
+  - [ ] face detection
 - [ ] Experience with AI, machine learning and neural networks in previous projects
 - [ ] Understanding of TPU/DSP/FPGA design flow
 - [ ] Knowledge of basic mathematical theories (linear algebra, probability theory, information theory, adaptive filtering,
